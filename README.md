@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://monu-rathor.github.io/Algorithm_Visualizer/
+Take a look at live version: https://rathormonu.github.io/Algorithm_Visualizer/
